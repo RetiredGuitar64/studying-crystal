@@ -8,3 +8,4 @@
     puts "#{i}能除尽5"
   end
 end
+
