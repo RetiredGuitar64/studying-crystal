@@ -18,3 +18,4 @@ puts method(3,5) { |a, b|
 puts method(3,5) { |a, b|
   a * b
 }
+
